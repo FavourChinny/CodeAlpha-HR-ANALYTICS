@@ -40,9 +40,6 @@ Organizations need effective ways to monitor their workforce and understand empl
 - Salaryslab of upto 5k has the highest attrition count.
 - Highest attrition count is found among the single.
 
-## Conclusion
-This project demonstrates the use of Power BI and DAX to transform HR data into an interactive dashboard for workforce and attrition analysis. The dashboard provides a foundation for exploring employee demographics, job-role patterns, workforce composition, and employee attrition.
-
 ## Recommendations for HR Analysis
 The dashboard can be used to:
 - Monitor employee attrition
@@ -51,6 +48,9 @@ The dashboard can be used to:
 - Monitor workforce composition
 - Support employee retention analysis
 - Support HR workforce planning
+
+## Conclusion
+This project demonstrates the use of Power BI and DAX to transform HR data into an interactive dashboard for workforce and attrition analysis. The dashboard provides a foundation for exploring employee demographics, job-role patterns, workforce composition, and employee attrition.
 
 ## Tools & Technologies
 -  Data cleaning
