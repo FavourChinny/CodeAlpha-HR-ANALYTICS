@@ -3,7 +3,7 @@
 ## Project Overview
 This project presents an interactive HR Analytics Dashboard developed using Microsoft Power BI.The dashboard provides insights into workforce demographics, employee attrition, job roles, education background, business travel, marital status, and other HR-related indicators.
 
-## Project Overview
+## Project Objective
 The objective is to transform HR data into clear and actionable insights that can support workforce monitoring and HR decision-making;
 - Analyze total employee population
 - Calculate employee attrition rate
